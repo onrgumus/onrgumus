@@ -1,5 +1,3 @@
-![TDSP Lifecycle](https://raw.githubusercontent.com/tirthajyoti/Data-science-best-resources/master/images/tdsp-lifecycle2.png)
-
 <h1 align="center">Hi 👋, I'm Onur Gumus</h1>
 <h3 align="center">Data Scientist | Business System Analyst | Product Owner | Digital Transformation & Supply Chain</h3>
 
